@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{6EBD3686-0185-CE56-59B5-62EA693C509E}</ProjectGuid>
+    <ProjectGuid>{81A6B43C-A1EF-3A33-2164-A7CF5DEAF254}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -63,22 +63,22 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\BrickEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Editor">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/Editor.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/Editor.dll</HintPath>
     </Reference>
     <Reference Include="XiaomiSupport">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Tsubaki/Documents/TrialBlockBreakingA/Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Tsubaki/Documents/Github/TrialBlockBreaking/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -392,7 +392,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}</Project>
+      <Project>{F67AC180-C892-57ED-4AE5-8ACEEA8F0B82}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
